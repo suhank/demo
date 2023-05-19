@@ -2,13 +2,15 @@ aa
 add second
 add thrid modify in applicaiton1
 add in develop branch
-Ö±½ÓÔÚstt·ÖÖ§·şÎñÆ÷ĞŞ¸ÄÄÚÈİ
-±¾µØĞŞ¸ÄÎÄ¼ş
+ç›´æ¥åœ¨sttåˆ†æ”¯æœåŠ¡å™¨ä¿®æ”¹å†…å®¹
+æœ¬åœ°ä¿®æ”¹æ–‡ä»¶
 
-·Ö±ğbbsÔö¼ÓÁËÎÄ¼ş
+åˆ†åˆ«bbså¢åŠ äº†æ–‡ä»¶
 
-master·ÖÖ§ÓÖĞŞ¸ÄÁË
+masteråˆ†æ”¯åˆä¿®æ”¹äº†
 
 bbs stath before save
 
-bbs stath µÚ¶ş´Î save
+bbs stath ç¬¬äºŒæ¬¡ save
+
+æœåŠ¡å™¨sttåˆ†æ”¯ä¿®æ”¹ 
